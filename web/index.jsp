@@ -1,0 +1,24 @@
+<%-- 
+    Document   : index
+    Created on : 17/06/2014, 09:28:29 PM
+    Author     : T107
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Bienvenido</title>
+        <script src="js/libs/jquery/jquery.js"></script>
+        <script>
+            $(document).ready(function (){
+            alert("Hola que tal como esta, bienvenido");    
+            });
+            
+        </script>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
+</html>
